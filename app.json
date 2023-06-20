@@ -1,0 +1,11 @@
+{
+  "name": "MyCreativeCollection",
+  "displayName": "MyCreativeCollection",
+  "expo": {
+    "ios": {
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    }
+  }
+}
